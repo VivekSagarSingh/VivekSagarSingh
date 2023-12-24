@@ -5,14 +5,14 @@
 <br/>  
   
 
-### <div align="center">Hi!  I'm Vivek, An Aspiring Data Scientist from India  🚀😎🇮🇳</div>  
+### <div align="center">Hi!  I'm Vivek, An Aspiring Data Analyst from India  🚀😎🇮🇳</div>  
 <br/>  
   
 
-- 🌱 I’m currently learning Power BI & complex ML Algorithms.  
+- 🌱 I’m currently learning complex ML Algorithms.  
   
 
-- ❓ Ask me about anything related to Python libraries, SQL Queries & Tableau.  
+- ❓ Ask me about anything related to Python libraries for Data Science, SQL Queries & Tableau.  
   
 
 - ⚡ Fun fact: I am an Audiophile 🎧. I play multiple sports, Badminton 🏸 Football ⚽ are my favourites.  
