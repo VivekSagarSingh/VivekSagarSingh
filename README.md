@@ -46,8 +46,9 @@
 ## Connect with me  
 <a href="https://github.com/VivekSagarSingh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a> 
 
+viveksagar.india@gmail.com
 <br/>  
 
 <br/>  
